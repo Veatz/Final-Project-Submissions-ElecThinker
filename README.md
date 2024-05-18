@@ -1,6 +1,6 @@
 # ElecThinker
 
-![ElecThinker Logo](assets/logo.png)
+![ElecThinker Logo](assets/images/logo.png)
 
 # ElecThinker
 
